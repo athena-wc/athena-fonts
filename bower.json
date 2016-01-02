@@ -2,7 +2,7 @@
   "name": "athena-fonts",
   "version": "1.0.3",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Carlos Araya <carlos.araya@gmail.com>"
   ],
   "description": "loads fonts for athena project.",
   "keywords": [
@@ -22,5 +22,6 @@
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
-  }
+  },
+  "private": true
 }
